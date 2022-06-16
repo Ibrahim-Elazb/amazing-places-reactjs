@@ -1,0 +1,9 @@
+.edit-place{
+    width: 100%;
+}
+
+.edit-place__card{
+    width: 50%;
+    min-width: 25rem;
+    margin: 0 auto;
+}

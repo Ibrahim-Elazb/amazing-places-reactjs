@@ -1,0 +1,9 @@
+.new-place{
+    width: 100%;
+}
+
+.new-place__card{
+    width: 50%;
+    min-width: 25rem;
+    margin: 0 auto;
+}
